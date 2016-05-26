@@ -1,6 +1,8 @@
 # DKStatusBarHUDController
 一个非常简单的状态指示器小测试框架
 
+只是一个菜鸟.
+
 ## 显示成功信息
 ```objc
 [DKStatusBarHUDController showMessage:@"加载成功" andImage:[UIImage imageNamed:@"DKStatusBarHUDController.bundle/success"]];
